@@ -1,1 +1,1 @@
-We plotted life expectancy over time.
+We plotted life expectancy over time
